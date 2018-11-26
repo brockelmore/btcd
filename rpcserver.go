@@ -40,8 +40,8 @@ import (
 	"github.com/brockelmore/btcd/peer"
 	"github.com/brockelmore/btcd/txscript"
 	"github.com/brockelmore/btcd/wire"
-	"github.com/brockelmore/btcutil"
-	"github.com/brockelmore/websocket"
+	"github.com/btcsuite/btcutil"
+	"github.com/btcsuite/websocket"
 )
 
 // API version constants
